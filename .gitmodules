@@ -1,3 +1,6 @@
 [submodule "zlux-example-server"]
 	path = zlux-example-server
 	url = https://github.com/zowe/zlux-example-server
+[submodule "zlux-app-server"]
+	path = zlux-app-server
+	url = https://github.com/zowe/zlux-app-server
